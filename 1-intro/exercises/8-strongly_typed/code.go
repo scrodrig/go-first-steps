@@ -7,5 +7,5 @@ func main() {
 	var password int = 20947382822
 
 	// don't edit below this line
-	fmt.Println("Authorization: Basic", username+":"+password)
+	fmt.Println("Authorization: Basic", username+":"+fmt.Sprint(password))
 }
