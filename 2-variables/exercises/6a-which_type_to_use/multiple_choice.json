@@ -4,5 +4,6 @@
     "Bits",
     "Bytes",
     "Nibbles"
-  ]
+  ],
+  "correct": "Bytes"
 }
